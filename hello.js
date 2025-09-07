@@ -1,5 +1,5 @@
 // hello.js
-// Author: [Your Name]
+// Author: Uduakobong Lawrence Okonah
 // Course: CSE 310 – Applied Programming
 // Description: A simple Hello World program in JavaScript
 // -------------------------------------------------------
